@@ -1,6 +1,6 @@
 {
   "name": "gana-compile",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pretty small synchronous template engine built on ES2015 Template Strings, working on `node@0.10` too. No RegExps, support for helpers and what you want. Use [gana][] if you wanna both async and sync support.",
   "repository": "tunnckoCore/gana-compile",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
