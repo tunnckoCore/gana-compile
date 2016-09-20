@@ -48,7 +48,29 @@
     "dist/"
   ],
   "keywords": [
-    "gana-compile"
+    "browser",
+    "compile",
+    "easy",
+    "es",
+    "es--template",
+    "fast",
+    "fun",
+    "gana",
+    "gana-compile",
+    "helper",
+    "helpers",
+    "kb",
+    "layouts",
+    "node",
+    "partials",
+    "small",
+    "strings",
+    "sync",
+    "synchronous",
+    "template",
+    "template-strings",
+    "tpl",
+    "tpl-strings"
   ],
   "config": {
     "commitizen": {
